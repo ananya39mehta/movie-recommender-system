@@ -1,0 +1,15 @@
+Task 1 – Cosine Similarity Results for 'X-Men'
+
+Top 5 MOST similar movies:
+- Infinite (Similarity: 0.58)
+- The Contractor (Similarity: 0.58)
+- Superman Returns (Similarity: 0.50)
+- Skyfall (Similarity: 0.50)
+- Superman Returns (Similarity: 0.45)
+
+Top 5 LEAST similar movies:
+- Zack and Miri Make a Porno (Similarity: 0.00)
+- Youth in Revolt (Similarity: 0.00)
+- You Will Meet a Tall Dark Stranger (Similarity: 0.00)
+- When in Rome (Similarity: 0.00)
+- What Happens in Vegas (Similarity: 0.00)
